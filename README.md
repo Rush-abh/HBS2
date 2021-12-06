@@ -1,4 +1,4 @@
-# HBS
+# Hotel Booking System
 
 Hotel booking system is the software solution for the hotels to be booked via software . 
 
